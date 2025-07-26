@@ -1,6 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './css/default.css';
+import './css/main.css';
+// import './css/animation.min.css';
+// import './css/bootstrap.min.css';
+import './css/cookie-notice.min.css';
+import './css/icons.min.css';
+// import './css/main.css';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
