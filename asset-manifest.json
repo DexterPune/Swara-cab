@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Swara-cab/static/css/main.16f981bd.css",
+    "main.js": "/Swara-cab/static/js/main.c41aebef.js",
+    "static/js/453.290f1866.chunk.js": "/Swara-cab/static/js/453.290f1866.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Swara-cab/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/Swara-cab/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/Swara-cab/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Swara-cab/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/bg-wide.jpg": "/Swara-cab/static/media/bg-wide.e90a848ea12a1f03a565.jpg",
+    "static/media/Icons-Line.woff?v=2.4.0": "/Swara-cab/static/media/Icons-Line.5c9febce52054ae0b96d.woff",
+    "static/media/fa-regular-400.ttf": "/Swara-cab/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/Icons-Line.eot?v=2.4.0": "/Swara-cab/static/media/Icons-Line.85e8c542d5e137beecf9.eot",
+    "static/media/Icons-Line.ttf?v=2.4.0": "/Swara-cab/static/media/Icons-Line.3ec13a24af3fdda11107.ttf",
+    "static/media/Icons-Line.woff2?v=2.4.0": "/Swara-cab/static/media/Icons-Line.3826fa1cb2348dd93948.woff2",
+    "static/media/fa-regular-400.woff2": "/Swara-cab/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Swara-cab/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Swara-cab/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Swara-cab/index.html",
+    "main.16f981bd.css.map": "/Swara-cab/static/css/main.16f981bd.css.map",
+    "main.c41aebef.js.map": "/Swara-cab/static/js/main.c41aebef.js.map",
+    "453.290f1866.chunk.js.map": "/Swara-cab/static/js/453.290f1866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16f981bd.css",
+    "static/js/main.c41aebef.js"
+  ]
+}
